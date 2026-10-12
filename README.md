@@ -2,7 +2,6 @@
 <html lang="th">
 <head>
   <meta charset="UTF-8">
-  <title>ประวัติ</title>
 </head>
 <body>
 
